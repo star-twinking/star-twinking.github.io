@@ -1,3 +1,12 @@
+---
+layout: post
+title: 几何光学(Geometric Optics)
+categories: [Physic]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # Geometric Optics
 
 ray optics 就是把光看成光线，虽然这个模型是不准确的，因为光还有波动性，都是这个模型在一定范围内是有效而简单的。

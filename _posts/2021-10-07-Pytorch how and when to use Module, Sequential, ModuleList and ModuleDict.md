@@ -1,3 +1,12 @@
+---
+layout: post
+title: Pytorch: how and when to use **Module, Sequential, ModuleList and ModuleDict**
+categories: [Pytorch]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # Pytorch: how and when to use **Module, Sequential, ModuleList and ModuleDict**
 
 ### Effective way to share, reuse and break down the complexity of your models

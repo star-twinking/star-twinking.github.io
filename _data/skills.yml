@@ -1,19 +1,11 @@
-- name: Software Engineer Keywords
+- name: Image processing
   keywords:
-      - Java
-      - C++
+      - Matlab
       - Python
-      - Design Patterns
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
 
-- name: Windows Developer Keywords
+- name: Deep Learning in BioImage
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Deep Learning
+      - Neural Network
+      - Endoscopy imaging

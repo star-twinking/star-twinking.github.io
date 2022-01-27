@@ -1,3 +1,12 @@
+---
+layout: post
+title: pulsed laser source and Monochromatic laser source
+categories: [Physic]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 ## Difference between pulsed laser source and Monochromatic laser source:
 
 1. *Pulsed laser*:	在一段时间内，断断续续的产生脉冲一样的激光。对于Continuous wave(CW) laser ，就是产生强度不变的、连续的激光，如下如所示。

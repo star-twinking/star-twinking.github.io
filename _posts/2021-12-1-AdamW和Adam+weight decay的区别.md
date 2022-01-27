@@ -1,3 +1,12 @@
+---
+layout: post
+title: Adam (L2 regularization) 和 AdamW（weight decay）
+categories: [深度学习, 优化方法, Pytorch]
+description: Adam+L2和Adam+weight decay的区别一直比较难分清楚，在这详细描述一下
+keywords: Adamw, Adam, Optimizer
+
+---
+
 # Adam (L2 regularization) 和 AdamW（weight decay）
 
 读这篇博客的基础：
@@ -35,9 +44,8 @@ $$
 
 再来看Adam和普通的SGD有什么区别。对目标函数$J(\theta)$求导，可以得到导数$g_t(\theta)$,接下来我们就根据导数来计算。
 $$
-
 m_t &= \beta_1 m_{t-1} + (1 - \beta_1) g_t \\ 
-v_t &= \beta_2 v_{t-1} + (1 - \beta_2) g_t^2 
+v_t &= \beta_2 v_{t-1} + (1 - \beta_2) g_t^2 
 $$
 
 - $m_t$是estimates of the first moment (the mean) of the gradients. 初始值$m_0=0$

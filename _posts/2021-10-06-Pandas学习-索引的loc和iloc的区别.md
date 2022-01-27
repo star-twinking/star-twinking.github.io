@@ -1,6 +1,13 @@
+---
+layout: post
+title: Pandas学习-索引的loc和iloc
+categories: [Pandas, python]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # Pandas学习-索引的loc和iloc
-
-
 
 ## 共性：
 

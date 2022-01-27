@@ -1,4 +1,15 @@
+---
+layout: post
+title: PSF, OTF, MTF的概念解释和两个测量方法
+categories: [Physic]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # PSF, OTF, MTF的概念解释和两个测量方法
+
+[TOC]
 
 ## 1. PSF, OTF, MTF的关系
 

@@ -1,4 +1,15 @@
+---
+layout: post
+title: PyTorch 的 Autograd机制
+categories: [Pytorch, Deep Learning]
+description: PyTorch 的 Autograd 机制
+keywords: Pytorch, Autograd
+
+---
+
 # PyTorch 的 Autograd机制
+
+[TOC]
 
 ## 背景：
 

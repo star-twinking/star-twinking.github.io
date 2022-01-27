@@ -1,3 +1,12 @@
+---
+layout: post
+title: 压缩感知成像
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # 压缩感知成像
 
 ## 1.原理：稀疏采样

@@ -1,3 +1,12 @@
+---
+layout: post
+title: PixelShuffle layer详细解释
+categories: [Deep learning]
+description: pixelshuffle layer的使用方法
+keywords: pixelshuffle, CNN
+
+---
+
 # PixelShuffle
 
 ![image-20210928211528738](../images/typora/image-20210928211528738.png)

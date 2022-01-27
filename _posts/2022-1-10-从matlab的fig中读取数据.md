@@ -1,3 +1,12 @@
+---
+layout: post
+title: 从matlab的fig中读取数据
+categories: [matlab]
+description: some word here
+keywords: matlab
+
+---
+
 ## 1. 如果你的fig文件中的图像每个像素都有数据
 
 可以通过以下方式获得图像每个点的值，输出data是矩阵，大小是图像像素的行列数

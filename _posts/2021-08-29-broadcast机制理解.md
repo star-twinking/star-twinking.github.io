@@ -1,4 +1,16 @@
+---
+layout: post
+title: Numpy 中的 Braodcast 机制理解
+categories: [python]
+description: 大小不同的array在element-wise的运算上Braodcast 机制理解
+keywords: broadcast, numpy
+
+---
+
 # Numpy 中的 Braodcast 机制理解
+
+[TOC]
+
 原文见
 >https://numpy.org/doc/stable/user/basics.broadcasting.html
 

@@ -1,3 +1,12 @@
+---
+layout: post
+title: 使用__slots__和@property
+categories: [python]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # 使用\_\_slots\_\_和@property
 
 当我们创建好class（类），我们可以给这个类附加属性和方法。属性和方法分别对应函数式编程里面的参数和低阶函数。

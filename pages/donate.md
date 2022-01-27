@@ -14,7 +14,7 @@ permalink: /donate/
 
 ## Paypal
 
-[Donate via Paypal](https://paypal.me/mzlogin)
+[Donate via Paypal](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&utm_source=enUS2122_fr_search_brand_wikipedia_var3_Resp&utm_medium=google&utm_campaign=C2122_social&appeal=Appeal-JimmyQuote&country=US&gclid=Cj0KCQiAosmPBhCPARIsAHOen-OEXz5ZqjYseS93sp6OzrjYQzoyrMG_f-HmZN2RPAtoMXZT1ueBCKYaAk3UEALw_wcB)
 
 ## 微信 / Wechat
 

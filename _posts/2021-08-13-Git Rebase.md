@@ -1,4 +1,16 @@
+---
+layout: post
+title: Git rebase 操作
+categories: [Git, 学习记录]
+description: rebase更新，变基及其风险
+keywords: Git, Rebase
+
+---
+
 # Git rebase
+
+[TOC]
+
 git - rebase来自官方的解释是：Reapply commits on top of another base tip。中文两字就能概括：变基。
 使用生活中的例子，就像接线头一样，将一段线条接在了另一个线条后面，最后它们依然是一条线。
 

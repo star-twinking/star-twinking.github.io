@@ -1,3 +1,12 @@
+---
+layout: post
+title: 衍射光学（Diffraction optics）
+categories: [Physic]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # Diffraction optics 2
 
 - main question: given the field in one plane how do we find the field in another field.

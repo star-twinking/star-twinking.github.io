@@ -1,3 +1,12 @@
+---
+layout: post
+title: 将numpy格式的图像转换为tensor几种方式比较
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+
+---
+
 # 将numpy格式的图像转换为tensor几种方式比较
 
 ##  1.ToTensor()
