@@ -4,13 +4,14 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: eigenPeople
+subtitle:Welcome to my zone!
+description: This is for personal recording, and expression.
+keywords: recording for life
+timezone: Asia/Hangzhou
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: none
+
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -36,8 +37,8 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
-        image_alt: 闷骚的程序员
+        enabled: false
+        image_alt: none
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -51,12 +52,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Kilin
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: star-twinking
+location: none
+email: dql0617@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -131,19 +132,22 @@ comments_provider: gitalk
 # https://disqus.com
 disqus:
     username: 
+
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: star-twinking
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: star-twinking
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
@@ -163,7 +167,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: 
     adsense:
         footer: true
         sidebar: true 
