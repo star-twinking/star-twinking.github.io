@@ -142,7 +142,7 @@ gitment:
 gitalk:
     owner: star-twinking
     repo: blog-comments
-    clientID: ea686e25315f2d899df
+    clientID: cea686e25315f2d899df
     clientSecret: a99ecbe97044f4403e3fbb813c826676a7c904c1
 # https://utteranc.es/
 utterances:
