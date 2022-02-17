@@ -7,7 +7,7 @@ keywords: keyword1, keyword2
 
 ---
 
-# Diffraction optics 2
+# Basic optics 03 - Diffraction optics 2 Fresnel and Fraunhofer
 
 - main question: given the field in one plane how do we find the field in another field.
 - how can we describe the imaging process using **wave optics**
@@ -16,11 +16,13 @@ keywords: keyword1, keyword2
 
 ## Huygens' principle and Rayleigh-Sommerfeld integral
 
+![image-20220210221433460](https://raw.githubusercontent.com/star-twinking/CloudImage/main/ImgforBlog/image-20220210221433460.png)
 
+根据惠更斯原理，传播中的光波，会像点光源一样，影响后面位置的状态。用公式表达一个点对在时间t下(z,x)位置处的影响，表达如上。和距离成反比所以是1/r，是球面波的特征，所以是r/z。r表示两个点之间的距离。
 
 ![image-20211121203932104](https://raw.githubusercontent.com/star-twinking/CloudImage/main/ImgforBlog/image-20211121203932104.png)
 
-根据瑞利索莫非原理，像面是所有点相加的结果。可以用如上公式表达。
+根据瑞利索莫非原理，如上图所示，观测面（observation plane）上的点，是光源面（source plane）所有点相加的结果。可以用如上公式表达。
 
 ## Fresnel and Fraunhofer  approximations
 
