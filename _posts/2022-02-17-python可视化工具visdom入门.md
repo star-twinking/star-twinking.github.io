@@ -6,13 +6,9 @@ description: 记录visdom的使用方法
 keywords: visdom, 可视化工具
 ---
 
-Content here
-
-[TOC]
-
 # python可视化工具visdom使用教程
 
-
+[TOC]
 
 ## 概述
 
@@ -47,7 +43,7 @@ pip install visdom
 python -m visdom.server
 ```
 
-![image-20220217224508788](../../../../AppData/Roaming/Typora/typora-user-images/image-20220217224508788.png)
+![image-20220217224508788](https://raw.githubusercontent.com/star-twinking/CloudImage/main/ImgforBlog/image-20220217224508788.png)
 
 然后根据提示在浏览器中输入相应地址即可，默认地址为：`http://localhost:8097/`
 
