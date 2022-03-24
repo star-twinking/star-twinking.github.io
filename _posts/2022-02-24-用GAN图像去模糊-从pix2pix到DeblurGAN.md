@@ -154,10 +154,12 @@ CGAN一般用GAN原来的方法，还有least aquare GAN, 以及Wasserstein GAN+
 
 <img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20220220174835950.png" alt="image-20220220174835950" style="zoom: 50%;" />
 
-回到DeblurGAN，这里的对抗loss就是用判别器对生成器产生的结果（fake image）进行判断，没有了原来GAN的部分，产生的图像更加平滑。定义如下:
+回到DeblurGAN，作者用的是WGAN loss的方法，这里的对抗loss就是用判别器对生成器产生的结果（fake image）进行判断，没有了原来GAN的部分，产生的图像更加平滑。定义如下:
 $$
 \mathcal L_{GAN} = \sum_{n=1}^N-D_{\theta _D}(G_{\theta_G}(I^B))
 $$
+
+所以在图里面，作者把loss写为Perpetual loss + WGAN loss。
 
 ### Content loss
 
